@@ -22,7 +22,7 @@ languages and web programming. Working with the aim of improving her knowledge i
 ### The Project You Must Check Out!
 - 🌟 [React E-Commerce Project with Commerce.js DB](https://github.com/ayse8888/react-graduation-ecommerce-project)
 ### Projects you should look into:
-- 🌟 [React Movie Search App with MovieDB](https://github.com/ayse8888/react-moviesearchproject-fetchapi-)
+- 🌟 [React Movie Search App with TMDB](https://github.com/ayse8888/react-moviesearchproject-fetchapi-)
 - 🌟 [React Giph Search App with Giphy.com DB](https://github.com/ayse8888/react-giphy-project)
 - 🌟 [E-Commerce Angular Clone with React.js](https://github.com/ayse8888/mindsite-project)
 - 🌟 [Json Data Search with Pagination](https://github.com/ayse8888/react-tesodev)
