@@ -5,8 +5,8 @@ languages and web programming. Working with the aim of improving her knowledge i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayse8888" alt="ayse8888" /> </p>
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact:  I love dancing Tango 💃
+- 🌱 I’m currently learning: everything 🤣
+- ⚡ Fun fact: I love dancing Tango 💃
 - 💻 All of my projects are available at [https://github.com/ayse8888?tab=repositories](https://github.com/ayse8888?tab=repositories)
 
 
