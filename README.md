@@ -33,9 +33,7 @@ languages and web programming. Working with the aim of improving her knowledge i
 - 🌟 [Bootstrap Design](https://github.com/ayse8888/Backpacker-Travel---Bootstrap)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayse8888)](https://github.com/anuraghazra/github-readme-stats)
-
-![Hatice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayse8888&show_icons=false&count_private=true&theme=great-gatsby)
+![Ayse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayse8888&show_icons=false&count_private=true&theme=great-gatsby)
 
 
 
