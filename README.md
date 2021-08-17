@@ -34,7 +34,7 @@ languages and web programming. Working with the aim of improving her knowledge i
 
 
 ![Ayse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayse8888&show_icons=true&theme=cobalt&hide=prs)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorecooper&layout=compact&hide=html&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayse8888&layout=compact&hide=html&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
