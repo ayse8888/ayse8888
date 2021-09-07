@@ -23,7 +23,7 @@ languages and web programming. Working with the aim of improving her knowledge i
 - 🌟 [React E-Commerce Project with Commerce.js DB](https://github.com/ayse8888/react-graduation-ecommerce-project)
 ### Projects you should look into:
 - 🌟 [MadLibs Game](https://github.com/ayse8888/MadLibs)
-- 🌟 [OOP-Movie-Projec](https://github.com/ayse8888/OOP-Movie-Project)
+- 🌟 [OOP-Movie-Project](https://github.com/ayse8888/OOP-Movie-Project)
 - 🌟 [Board-Project](https://github.com/ayse8888/Board-Project)
 - 🌟 [My Portfolio Project](https://github.com/ayse8888/portfolio)
 - 🌟 [React Movie Search App with TMDB](https://github.com/ayse8888/react-moviesearchproject-fetchapi-)
