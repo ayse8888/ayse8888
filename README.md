@@ -22,15 +22,13 @@ languages and web programming. Working with the aim of improving her knowledge i
 ### The Project You Must Check Out!
 - 🌟 [React E-Commerce Project with Commerce.js DB](https://github.com/ayse8888/react-graduation-ecommerce-project)
 ### Projects you should look into:
+- 🌟 [MadLibs Game](https://github.com/ayse8888/MadLibs)
+- 🌟 [OOP-Movie-Projec](https://github.com/ayse8888/OOP-Movie-Project)
+- 🌟 [Board-Project](https://github.com/ayse8888/Board-Project)
+- 🌟 [My Portfolio Project](https://github.com/ayse8888/portfolio)
 - 🌟 [React Movie Search App with TMDB](https://github.com/ayse8888/react-moviesearchproject-fetchapi-)
 - 🌟 [React Giph Search App with Giphy.com DB](https://github.com/ayse8888/react-giphy-project)
 - 🌟 [E-Commerce Angular Clone with React.js](https://github.com/ayse8888/mindsite-project)
-- 🌟 [Json Data Search with Pagination](https://github.com/ayse8888/react-tesodev)
-- 🌟 [React ContextApi Theme Change](https://github.com/ayse8888/react-contextapithemechange)
-- 🌟 [React Like-Dislike Project](https://github.com/ayse8888/likeproject-react)
-- 🌟 [Bootstrap Design](https://github.com/ayse8888/Lemonade-Website)
-- 🌟 [Bootstrap Design](https://github.com/ayse8888/Hotel-California-Project)
-- 🌟 [Bootstrap Design](https://github.com/ayse8888/Backpacker-Travel---Bootstrap)
 
 
 ![Ayse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayse8888&show_icons=true&theme=cobalt&hide=prs)  
