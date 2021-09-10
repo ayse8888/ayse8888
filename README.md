@@ -20,8 +20,8 @@ languages and web programming. Working with the aim of improving her knowledge i
 
 ## Blogs posts
 ### The Projects You Must Check Out!
-- 🌟 [Capstone-Turkey-Animal-Adoption](https://github.com/ReCoded-Org/capstone-turkey-animal-adoption)
-- 🌟 [React E-Commerce Project with Commerce.js DB](https://github.com/ayse8888/react-graduation-ecommerce-project)
+- 🌟 [Re:Coded Capstone-Turkey-Animal-Adoption](https://github.com/ReCoded-Org/capstone-turkey-animal-adoption)
+- 🌟 [Kodluyoruz React Developer Store E-Commerce (Commerce.js DB)](https://github.com/ayse8888/react-graduation-ecommerce-project)
 ### Projects you should look into:
 - 🌟 [MadLibs Game](https://github.com/ayse8888/MadLibs)
 - 🌟 [OOP-Movie-Project](https://github.com/ayse8888/OOP-Movie-Project)
